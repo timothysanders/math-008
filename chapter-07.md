@@ -176,7 +176,7 @@ Lecture Notes
       - Find unique radians that are not identified in the previous circle divisions
       - $\frac{\pi}{6}$, $\frac{5\pi}{6}$, $\frac{7\pi}{6}$, $\frac{11\pi}{6}$
 
-## Lecture 3
+## Lecture 3: Special locations on the unit circle
 - Unique radians for a circle split into 12 equal pieces
   - "The sixes": $\frac{\pi}{6}$, $\frac{5\pi}{6}$, $\frac{7\pi}{6}$, $\frac{11\pi}{6}$
 - Specific memorization
@@ -220,3 +220,18 @@ Lecture Notes
   - All of these have equivalent degrees associated with them
 - We will use these as our independent variables for our trig functions (x)
 - For a visual representation of the locations of these, along with their $(x,y)$ coordinates, and degrees, see chapter 7.3 [Figure 19](https://openstax.org/books/algebra-and-trigonometry-2e/pages/7-3-unit-circle#Figure_07_03_017)
+
+## Lecture 4: Values of the Unit Circle
+- Radians: Length around the circle
+- Angle: Rotation around the circle
+- Radian: arc that is subtended (captured) by an angle
+- Unit circle is very specific, its center is at the origin $(0,0)$ and has a radius of 1
+- Unit circle formula: $x^2 + y^2 = 1$
+- The $x$- and $y$-axis split the cartesian plane into four different quadrants
+  - Quadrants one and two have positive y-values
+  - Quadrants three and four have negative y-values
+  - Quadrants one and four have positive x-values
+  - Quadrants two and three have negative x-values
+- For $\frac{\pi}{4}$, the x and y values are the same
+  - You end up with $(x, y)$ coordinates of $(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$
+
