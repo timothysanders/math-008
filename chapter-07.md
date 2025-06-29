@@ -235,3 +235,26 @@ Lecture Notes
 - For $\frac{\pi}{4}$, the x and y values are the same
   - You end up with $(x, y)$ coordinates of $(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$
 
+## Lecture 5: Values of the Unit Circle (Part 2)
+- Now we will look for the terminal point of $\frac{\pi}{3}$, $60^\circ$ (One of the "threes")
+  - Our $x$-coordinate is $\frac{1}{2}$, our $y$-coordinate is $\frac{\sqrt{3}}{2}$
+  - $(\frac{1}{2}, \frac{\sqrt{3}}{2})$
+- Another point is the terminal point of $\frac{\pi}{6}$, or $30^\circ$
+  - Our $y$-coordinate is $\frac{1}{2}$, our $x$-coordinate is $\frac{\sqrt{3}}{2}$
+  - Note that this is the same as $\frac{\pi}{3}$, or $60^\circ$, just with the numbers reversed
+- The rest of the significant points in other quadrants can be intuited, just with signs changed depending on the quadrant
+- For the "fours", you should just remember that the ordered pairs are always some variation of $(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$, the difference just depends on which quadrant you are in, this impacts the signs of the ordered pairs
+- Remember for $\frac{\pi}{2}$, the ordered pair is $(0, 1)$, $\frac{3\pi}{2}$, the ordered pair is $(0, -1)$
+- For a visual representation of the locations of these, along with their $(x,y)$ coordinates, and degrees, see chapter 7.3 [Figure 19](https://openstax.org/books/algebra-and-trigonometry-2e/pages/7-3-unit-circle#Figure_07_03_017)
+- **The most important part to remember is the first quadrant**
+  - Given a radian position on the unit circle, we need to be able to provide the coordinates of the terminal point
+  - Given a coordinate point on the unit circle, we need to be able to provide the radian position
+- Tip: To help remember the ordered pairs within the first quadrant, we can do this by counting 
+  - For x, go from left to right
+    - 1, 2, 3 -> 1 = $\frac{1}{2}$; 2 = $\frac{\sqrt{2}}{2}$; 3 = $\frac{\sqrt{3}}{2}$
+  - For y, go from right to left
+    - 3, 2, 1 -> 3 = $\frac{\sqrt{3}}{2}$; 2 = $\frac{\sqrt{2}}{2}$; 1 = $\frac{1}{2}$
+  - These combine into the ordered pairs below for the corresponding radian locations
+    - $(\frac{1}{2}, \frac{\sqrt{3}}{2})$, corresponds to $\frac{\pi}{3}$ / $60^\circ$
+    - $(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$, corresponds to $\frac{\pi}{4}$ / $45^\circ$
+    - $(\frac{\sqrt{3}}{2}, \frac{1}{2})$, corresponds to $\frac{\pi}{6}$ / $30^\circ$
