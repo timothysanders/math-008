@@ -175,3 +175,48 @@ Lecture Notes
     - 12 equal pieces
       - Find unique radians that are not identified in the previous circle divisions
       - $\frac{\pi}{6}$, $\frac{5\pi}{6}$, $\frac{7\pi}{6}$, $\frac{11\pi}{6}$
+
+## Lecture 3
+- Unique radians for a circle split into 12 equal pieces
+  - "The sixes": $\frac{\pi}{6}$, $\frac{5\pi}{6}$, $\frac{7\pi}{6}$, $\frac{11\pi}{6}$
+- Specific memorization
+  - The four corners, sixes, threes, and fours
+  - "Four corners"
+    - $0$ and $2\pi$
+      - Equivalent degrees: $0^\circ$ and $360^\circ$
+    - $\frac{\pi}{2}$
+      - Equivalent degrees: $90^\circ$
+    - $\pi$
+      - Equivalent degrees: $180^\circ$
+    - $\frac{3\pi}{2}$
+      - Equivalent degrees: $270^\circ$
+  - "Fours"
+    - $\frac{\pi}{4}$
+      - Equivalent degrees: $45^\circ$
+    - $\frac{3\pi}{4}$
+      - Equivalent degrees: $135^\circ$
+    - $\frac{5\pi}{4}$
+      - Equivalent degrees: $225^\circ$
+    - $\frac{7\pi}{4}$
+      - Equivalent degrees: $315^\circ$
+  - "Threes"
+    - $\frac{\pi}{3}$
+      - Equivalent degrees: $60^\circ$
+    - $\frac{2\pi}{3}$
+      - Equivalent degrees: $120^\circ$
+    - $\frac{4\pi}{3}$
+      - Equivalent degrees: $240^\circ$
+    - $\frac{5\pi}{3}$
+      - Equivalent degrees: $300^\circ$
+  - "Sixes"
+    - $\frac{\pi}{6}$
+      - Equivalent degrees: $30^\circ$
+    - $\frac{5\pi}{6}$
+      - Equivalent degrees: $150^\circ$
+    - $\frac{7\pi}{6}$
+      - Equivalent degrees: $210^\circ$
+    - $\frac{11\pi}{6}$
+      - Equivalent degrees: $330^\circ$
+  - All of these have equivalent degrees associated with them
+- We will use these as our independent variables for our trig functions (x)
+- For a visual representation of the locations of these, along with their $(x,y)$ coordinates, and degrees, see chapter 7.3 [Figure 19](https://openstax.org/books/algebra-and-trigonometry-2e/pages/7-3-unit-circle#Figure_07_03_017)
