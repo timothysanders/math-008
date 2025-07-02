@@ -1,0 +1,13 @@
+## Lecture 4: Values of the Unit Circle
+- Radians: Length around the circle
+- Angle: Rotation around the circle
+- Radian: arc that is subtended (captured) by an angle
+- Unit circle is very specific, its center is at the origin $(0,0)$ and has a radius of 1
+- Unit circle formula: $x^2 + y^2 = 1$
+- The $x$- and $y$-axis split the cartesian plane into four different quadrants
+    - Quadrants one and two have positive y-values
+    - Quadrants three and four have negative y-values
+    - Quadrants one and four have positive x-values
+    - Quadrants two and three have negative x-values
+- For $\frac{\pi}{4}$, the x and y values are the same
+    - You end up with $(x, y)$ coordinates of $(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$

@@ -1,0 +1,26 @@
+## Lecture 1: The Unit Circle
+- Equation of a circle
+    - Standard form: $(x-h)^2 + (y-k)^2 = r^2$
+    - Center: $(h, k)$
+    - Radius: $r$
+        - Remember that radius is just $r$, not $r^2$
+    - Unit circle is typically drawn right at the origin $(0,0)$, remember the center is $(h, k)$
+    - The radius is a line from the center to any edge
+    - Diameter has to go from edge to edge, through the center of the circle
+        - Diameter is double the distance of the radius
+- In trigonometry, we will be thinking about the angles that are created within the circle
+    - Radians, etc.
+    - "Initial side" vs "terminal side"
+    - The initial and terminal sides create an angle
+    - Will typically use $\theta$ to denote the angle being created
+    - Angle will be described either as a degree or a radian (focus will not be as much on degrees, but rather on radians)
+- Radian (plural "radii")
+    - The length of the radius
+    - Radian is used when we talk about the arc between the initial side and the terminal side. This is called "subtended"
+        - The length of the arc is described in terms of "x radians", so "1 radian, 2 radians, etc."
+- Pi
+    - $\pi \approx 3.1415926$
+    - We will be using pi as a value attached to a particular number of radians ($\pi \text{ radians} = 3.14 \text{ radii}$)
+    - There is a special relationship between the diameter of a circle and its circumference
+    - $\pi = \frac{C}{D}$ (circumference over diameter)
+    - $\pi = \frac{\text{semi-circle}}{r}$ (half of a circle divided by the radius == 3.14...)
