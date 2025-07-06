@@ -10,28 +10,28 @@
 - Break down into
   - Inside (opposite behavior) - This manipulates the independent variable (the radians)
     1. Multiplication
-      - i.e. $\tan(b\theta)$
-      - This will either stretch or shrink the graph
-      - Stretch: $0 \lt b \lt 1$
-      - Shrink: $b \gt 1$
-      - If $b \lt 0$, it is reflected on the y-axis
-      - Period: $\frac{2\pi}{b}$, $\frac{\pi}{b}$
-      - $\cos(b\theta + c) = \cos(b(\theta + \frac{c}{b}))$
-        - This is similar to GCF factoring
+       - i.e. $\tan(b\theta)$
+       - This will either stretch or shrink the graph
+       - Stretch: $0 \lt b \lt 1$
+       - Shrink: $b \gt 1$
+       - If $b \lt 0$, it is reflected on the y-axis
+       - Period: $\frac{2\pi}{b}$, $\frac{\pi}{b}$
+       - $\cos(b\theta + c) = \cos(b(\theta + \frac{c}{b}))$
+         - This is similar to GCF factoring
     2. Addition/Subtraction ("phase shift")
-      - If there is addition, the graph moves to the left
-      - If there is subtraction, the graph moves to the right
+       - If there is addition, the graph moves to the left
+       - If there is subtraction, the graph moves to the right
   - Outside ("natural" behavior) - This manipulates the dependent variable (the y values)
     3. Multiplication
-      - $a\sin \theta$
-      - Stretch: $a \gt 1$
-      - Shrink: $0 \lt a \lt 1$
-      - $a \lt 0$: reflects on the x-axis
-      - $|a|$ dictates the amplitude of the graph
-        - This only applies to $\sin$ and $\cos$ since the others go up/down to $\infty$
+       - $a\sin \theta$
+       - Stretch: $a \gt 1$
+       - Shrink: $0 \lt a \lt 1$
+       - $a \lt 0$: reflects on the x-axis
+       - $|a|$ dictates the amplitude of the graph
+         - This only applies to $\sin$ and $\cos$ since the others go up/down to $\infty$
     4. Addition/Subtraction
-      - Positive: moves graph up
-      - Negative: moves graph down
+       - Positive: moves graph up
+       - Negative: moves graph down
 - $f(\theta) = 2\cos(x + \frac{\pi}{2})$
   - You want to start with the parent function
   - $\cos(x)$ in this instance
