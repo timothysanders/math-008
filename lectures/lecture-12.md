@@ -39,3 +39,12 @@
 - The argument of the original trig functions was a degree/radian and you got out a terminal point
 - For the inverses, our argument is a terminal point, and we get out some degree/radian
   - **BUT** if you input a terminal point, you have to be mindful of which radian you are looking at (remember the restricted range/domain)
+
+| Function  | Inverse Function                             | Domain of Inverse                | Range of Inverse                               |
+|-----------|----------------------------------------------|----------------------------------|------------------------------------------------|
+| $\sin(x)$ | $\arcsin(x)$ or $\sin^{-1}(x)$               | $[-1, 1]$                        | $[-\frac{\pi}{2}, \frac{\pi}{2}]$              |
+| $\cos(x)$ | $\arccos(x)$ or $\cos^{-1}(x)$               | $[-1, 1]$                        | $[0, \pi]$                                     |
+| $\tan(x)$ | $\arctan(x)$ or $\tan^{-1}(x)$               | $(-\infty, \infty)$              | $(-\frac{\pi}{2}, \frac{\pi}{2})$              |
+| $\csc(x)$ | $\operatorname{arccsc}(x)$ or $\csc^{-1}(x)$ | $(-\infty, -1] \cup [1, \infty)$ | $[-\frac{\pi}{2}, 0) \cup (0, \frac{\pi}{2}]$  |
+| $\sec(x)$ | $\operatorname{arcsec}(x)$ or $\sec^{-1}(x)$ | $(-\infty, -1] \cup [1, \infty)$ | $[0, \frac{\pi}{2}) \cup (\frac{\pi}{2}, \pi]$ |
+| $\cot(x)$ | $\operatorname{arccot}(x)$ or $\cot^{-1}(x)$ | $(-\infty, \infty)$              | $(0, \pi)$                                     |
