@@ -42,3 +42,8 @@
    - $\cos(t) = 1$ happens at $0$
    - Note that these are not general solutions, but solutions just within that interval.
    - $\theta = \frac{2\pi}{3}, \frac{4\pi}{3}, 0$ or in set notation $\{\frac{2\pi}{3}, \frac{4\pi}{3}, 0\}$
+
+#### Codex notes
+- Lecture covers both double-angle and half-angle formulas; this session focuses on double-angle formulas, with half-angle formulas to follow.
+- Analogy: think of the double angle as “twins”—summing two identical angles produces $2\theta$.
+- Half-angle formulas will be introduced later, building on the double-angle discussion.
