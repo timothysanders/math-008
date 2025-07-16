@@ -36,3 +36,10 @@
    - $\to \frac{\sin x \cos h + \cos x \sin h - \sin x}{h}$
    - $\to \frac{\sin x \cos h - \sin x}{h}+ \frac{\cos x \sin h}{h}$
    - $\sin x(\frac{\cos h - 1}{h}) + \cos x(\frac{\sin h}{h})$
+
+#### Codex notes
+- **Memorization & Exam Use:** These sum and difference identities are provided on exams and are not expected to be memorized, though recognizing their patterns is encouraged.
+- **Radical Multiplication Rule:** When multiplying radicals with the same index, $\sqrt{a}\,\sqrt{b}=\sqrt{ab}$.
+- **Difference Quotient & Derivative:** The difference quotient $\frac{f(x+h)-f(x)}{h}$ is the slope formula (change in $y$ over change in $x$) from algebra and is foundational for the derivative in calculus.
+- **Factoring & Fraction Splitting:** Splitting a single fraction into separate fractions and factoring out common factors (GCF) is a key technique when verifying identities and manipulating expressions.
+- **Calculus Connection:** These identities are essential tools for finding derivatives of trigonometric functions and for proofs in upcoming calculus topics.
