@@ -27,3 +27,15 @@
    - $ = \sqrt{\frac{2 - \sqrt{2}}{2} \cdot \frac{1}{2}}$
    - $ = \sqrt{\frac{2 - \sqrt{2}}{4}}$
    - $ = \sqrt{\frac{2 - \sqrt{2}}{2}}$
+
+#### Codex notes
+- **Multiple tangent half-angle formulas**: Several equivalent forms exist (e.g., $\displaystyle\sqrt{\frac{1-\cos\alpha}{1+\cos\alpha}}$ or $\displaystyle\frac{1-\cos\alpha}{\sin\alpha}$); use whichever matches your source.
+- **Maintain original angle value**: Rewrite the half-angle argument to match the formula structure without altering its actual value (e.g., use a “form of 1” to adjust numerator/denominator rather than dividing by 2 directly).
+- **Divide by a fraction by multiplying by its reciprocal**: When dividing by a number or fraction (e.g., by 2), multiply the denominator by the reciprocal to preserve equivalence.
+- **Create common denominators**: Multiply numerator and denominator by the same factor to combine fractions before simplifying.
+- **Split radicals in a fraction**: Use $\displaystyle\sqrt{\frac{a}{b}}=\frac{\sqrt a}{\sqrt b}$ to simplify nested radicals.
+- **Determine sign via quadrants**: Use the original angle’s quadrant (not the halved argument) to choose the correct $\pm$ sign in half-angle formulas.
+- **Recall special angle values**: $\cos30^\circ=\frac{\sqrt3}{2}$ and $\sin45^\circ=\frac{\sqrt2}{2}$.
+- **Radian half-angle trick**: For radian inputs, multiply numerator and denominator by 2 (a “form of 1”) to match the half-angle argument without changing its value.
+- **Example focus**: Apply half-angle identities to find exact values without a calculator, rather than verifying identities.
+- **Next topic**: Polar coordinates and polar equations.
