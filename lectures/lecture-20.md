@@ -36,3 +36,9 @@
    - $\frac{2 + 2\cos\theta}{\sin\theta(1 + \cos\theta)}$
      - Can factor out the GCF of the numerator
    - $\frac{2(1 + \cos\theta)}{\sin\theta(1 + \cos\theta)} \to \frac{2}{\sin\theta} \to 2 \cdot \frac{1}{\sin\theta} \to 2 \cdot \csc\theta$
+
+#### Codex notes
+- When multiplying by a conjugate or by an expression equal to 1 (e.g. $\frac{\cos\theta}{\cos\theta}$), multiply both the numerator and the denominator of the side you're simplifying (you are not "balancing" the equation).
+- Don't get thrown off by different variable names — you can rename the argument (e.g. replace $u$ with $\theta$) to match your problem.
+- You can work on both sides of an identity simultaneously and stop when the intermediate expressions agree (i.e. meet in the middle).
+- Recognize that these strategies are just basic arithmetic/algebraic skills (common denominators, reciprocals, conjugates, etc.) you've already learned.
