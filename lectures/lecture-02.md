@@ -1,4 +1,4 @@
-## Lecture 2:
+## Lecture 2: Special Radian Measures
 - To go half way around a circle, we need $\pi r$ (r = radius). To go all the way around, we need $2\pi r$
 - "Special radians"
     - Circle divided into
