@@ -86,7 +86,7 @@ plt.show()
     - "Terminal points" are the $(x, y)$ points on the circle diameter that corresponds to a particular radian length measurement
 - The trig functions take a right triangle, and use the opposite side of the triangle and divides it by the hypotenuse
 - Tip: To remember trig functions, use the mnemonic **S**OH-**C**AH-**T**OA
-    - SOA: Sine Opposite over Adjacent
+    - SOH: Sine Opposite over Hypotenuse
     - CAH: Cosine Adjacent over Hypotenuse
     - TOA: Tangent Opposite over Adjacent
 - Note:
