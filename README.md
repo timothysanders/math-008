@@ -45,6 +45,9 @@ math-008/
 - Lecture 28: Parametric Equations
 - Lecture 29: Vectors
 - Lecture 30: More Vectors
+- Lecture 31: Dot Product
+- Lecture 32: Three Dimensional Vectors
+- Lecture 33: The Cross Product
 
 ### Transcripts
 Transcripts are generated via the Python library `yt-dlp`. This helper file is largely meant as a helper tool for codex to avoid having to pass the entirety of the json3 file into context and utilizing unnecessary tokens.
