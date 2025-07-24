@@ -14,3 +14,34 @@ math-008/
 ├── README.md
 └── requirements.txt     # Python dependencies
 ```
+### Lectures
+- Lecture 1: The Unit Circle
+- Lecture 2: Special Radian Measures
+- Lecture 3: Special Locations on the Unit Circle
+- Lecture 4: Values of the Unit Circle
+- Lecture 5: Values of the Unit Circle (Part 2)
+- Lecture 6: Trigonometric Functions 
+- Lecture 7: The Graph of Sine
+- Lecture 8: Graphs of Tangent and Cosine
+- Lecture 9: Graphs of Cotangent and Secant
+- Lecture 10: Translations
+- Lecture 11: More Transformations
+- Lecture 12: Intro to Inverses
+- Lecture 13: Inverse Examples
+- Lecture 14: Inverse Composition
+- Lecture 15: Right Triangles
+- Lecture 16: Law of Sines
+- Lecture 17: Law of Cosines
+- Lecture 18: Trig Equations
+- Lecture 19: Trig Identities
+- Lecture 20: More Examples for Verifying Identities
+- Lecture 21: Sum and Difference Formulas
+- Lecture 22: Double Angle Formulas
+- Lecture 23: More on Double Angles
+- Lecture 24: Half Angles
+- Lecture 25: Polar Coordinates
+- Lecture 26: Polar Equations
+- Lecture 27: Examples of Polar Equations
+- Lecture 28: Parametric Equations
+- Lecture 29: Vectors
+- Lecture 30: More Vectors
