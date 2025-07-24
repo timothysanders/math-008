@@ -45,3 +45,15 @@ math-008/
 - Lecture 28: Parametric Equations
 - Lecture 29: Vectors
 - Lecture 30: More Vectors
+
+### Transcripts
+Transcripts are generated via the Python library `yt-dlp`. This helper file is largely meant as a helper tool for codex to avoid having to pass the entirety of the json3 file into context and utilizing unnecessary tokens.
+
+An example command used to download a transcript is shown below.
+```bash
+yt-dlp --skip-download --write-auto-subs --sub-langs "en" --sub-format json3 "https://www.youtube.com/watch?v=aimq-cUQu1E"
+```
+These transcripts (in `*.json3` format) can be converted into `*.txt` file using the `generate_transcript_txt.py` file. The newly generated text file is created in the same directory as the input json3 file. An example command is shown below
+```bash
+python src/generate_transcript_txt.py "transcripts/lecture-10.json3"
+```
